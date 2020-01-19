@@ -1,0 +1,14 @@
+
+#file
+data/
+128px_image_square_final/
+
+#h5
+*.h5
+
+#jpg
+*.jpg
+*.jpeg
+
+#pkl
+*.pkl
